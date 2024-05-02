@@ -9,7 +9,7 @@ p {
 }
 
 header {
-    background-color: orange; /* Nouvelle couleur pour le header */
+    background-color: orange;
     color: #e7620e;
 }
 
@@ -24,7 +24,7 @@ header {
     background-color: #45ef32;
 }
 .square3{
-    background-color: #f5367e;
+    background-color: #ec3b7e;
 }
 .square-large1{
     background-color: #f5367e;
